@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+24 Pin=C3-1
+Removed Pin From Net: NetName=+24 Pin=IC1-1
+Removed Member From Class: ClassName=Dynamics_Sch Member=C11
+Removed Member From Class: ClassName=Analog_Circuit_1 Member=Q2
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=+5 Pin=IC1-1
+Added Member To Class: ClassName=Dynamics_Sch Member=Component C4 0805_Capacitor
+Added Member To Class: ClassName=Communication Member=Component IC2 MCP2542FD-E_MF
+Added Member To Class: ClassName=Dynamics_Sch Member=Component J1 6473423-1
+Added Member To Class: ClassName=Analog_Circuit_1 Member=Component Q4 LND150K1-G
+Added Member To Class: ClassName=Analog_Circuit Member=Component R15 0805_Resistor

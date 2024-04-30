@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\7_Cloud\OneDrive - IPLeiria\2_Formula Student\23_24\1_PCBs\Dynamics_Module\Dynamics.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dynamics-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=dynamics-slotholes.txt|DrillLayers=gtl,gbl

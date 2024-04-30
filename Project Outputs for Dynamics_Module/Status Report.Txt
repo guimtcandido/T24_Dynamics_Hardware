@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Dynamics_Module.PrjPcb]
+   Generated File[Dynamics-RoundHoles.TXT]
+   Generated File[Dynamics-SlotHoles.TXT]
+   Generated File[Dynamics.LDP]
+   Generated File[Dynamics.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:31:16 On 16/10/2023

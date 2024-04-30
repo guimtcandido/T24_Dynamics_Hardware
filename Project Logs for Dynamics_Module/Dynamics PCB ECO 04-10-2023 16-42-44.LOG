@@ -1,0 +1,12 @@
+Change Component Description : Designator=Q1 Old Description=MOSFET, DEPLETION-MODE, 500V, 1K Ohm3 SOT-23 T/R New Description=MOSFET, DEPLETION-MODE, 500V, 1K Ohm3 SOT-23 T/R | Microchip Technology Inc. LND150K1-G
+Change Component Description : Designator=Q2 Old Description=MOSFET, DEPLETION-MODE, 500V, 1K Ohm3 SOT-23 T/R New Description=MOSFET, DEPLETION-MODE, 500V, 1K Ohm3 SOT-23 T/R | Microchip Technology Inc. LND150K1-G
+Change Component Description : Designator=Q3 Old Description=MOSFET, DEPLETION-MODE, 500V, 1K Ohm3 SOT-23 T/R New Description=MOSFET, DEPLETION-MODE, 500V, 1K Ohm3 SOT-23 T/R | Microchip Technology Inc. LND150K1-G
+Change Component Description : Designator=Q4 Old Description=MOSFET, DEPLETION-MODE, 500V, 1K Ohm3 SOT-23 T/R New Description=MOSFET, DEPLETION-MODE, 500V, 1K Ohm3 SOT-23 T/R | Microchip Technology Inc. LND150K1-G
+Added Component: Designator=MTH1(Mounting_Hole_3.5mm)
+Added Component: Designator=MTH2(Mounting_Hole_3.5mm)
+Added Component: Designator=MTH3(Mounting_Hole_3.5mm)
+Added Component: Designator=MTH4(Mounting_Hole_3.5mm)
+Added Member To Class: ClassName=Dynamics_Sch Member=Component MTH1 Mounting_Hole_3.5mm
+Added Member To Class: ClassName=Dynamics_Sch Member=Component MTH2 Mounting_Hole_3.5mm
+Added Member To Class: ClassName=Dynamics_Sch Member=Component MTH3 Mounting_Hole_3.5mm
+Added Member To Class: ClassName=Dynamics_Sch Member=Component MTH4 Mounting_Hole_3.5mm

@@ -1,0 +1,177 @@
+Removed Member From Class: ClassName=Analog_Circuit_1 Member=C?
+Removed Member From Class: ClassName=Analog_Circuit Member=C?
+Removed Member From Class: ClassName=Communication Member=C?
+Removed Member From Class: ClassName=Dynamics_Sch Member=IC?
+Removed Member From Class: ClassName=Analog_Circuit Member=Q?
+Removed Member From Class: ClassName=Analog_Circuit_1 Member=R?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=PS? NewDesignator=PS1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetIC?_4 New Net Name=NetIC2_4
+Change Net Name : Old Net Name=NetIC?_6 New Net Name=NetIC2_6
+Change Net Name : Old Net Name=NetIC?_7 New Net Name=NetIC3_7
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ1_3
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetJ?_5 New Net Name=NetJ1_5
+Change Net Name : Old Net Name=NetJ?_6 New Net Name=NetJ1_6
+Change Net Name : Old Net Name=NetJ?_7 New Net Name=NetJ1_7
+Change Net Name : Old Net Name=NetJ?_8 New Net Name=NetJ1_8
+Change Net Name : Old Net Name=NetJ?_9 New Net Name=NetJ1_9
+Change Net Name : Old Net Name=NetJ?_16 New Net Name=NetJ1_16
+Change Net Name : Old Net Name=NetJ?_17 New Net Name=NetJ1_17
+Change Net Name : Old Net Name=NetJ?_18 New Net Name=NetJ1_18
+Change Net Name : Old Net Name=NetJ?_19 New Net Name=NetJ1_19
+Change Net Name : Old Net Name=NetJ?_20 New Net Name=NetJ1_20
+Change Net Name : Old Net Name=NetJ?_21 New Net Name=NetJ1_21
+Change Net Name : Old Net Name=NetJ?_22 New Net Name=NetJ1_22
+Change Net Name : Old Net Name=NetJ?_24 New Net Name=NetJ2_24
+Change Net Name : Old Net Name=NetJ?_28 New Net Name=NetJ2_28
+Change Net Name : Old Net Name=NetJ?_36 New Net Name=NetJ2_36
+Change Net Name : Old Net Name=NetJ?_43 New Net Name=NetJ2_43
+Change Net Name : Old Net Name=NetJ?_48 New Net Name=NetJ2_48
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=J2-25
+Added Pin To Net: NetName=NetC9_1 Pin=R1-1
+Added Pin To Net: NetName=NetC9_1 Pin=R4-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=J2-4
+Added Pin To Net: NetName=NetC10_1 Pin=R2-1
+Added Pin To Net: NetName=NetC10_1 Pin=R5-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=J2-23
+Added Pin To Net: NetName=NetC11_1 Pin=R8-1
+Added Pin To Net: NetName=NetC11_1 Pin=R10-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=J2-9
+Added Pin To Net: NetName=NetC13_1 Pin=R13-1
+Added Pin To Net: NetName=NetC13_1 Pin=R18-2
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=J2-10
+Added Pin To Net: NetName=NetC14_1 Pin=R22-1
+Added Pin To Net: NetName=NetC14_1 Pin=R23-2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetIC2_7 Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_7 Pin=J1-10
+Added Net: Name=NetIC2_7
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_1 Pin=J2-49
+Added Net: Name=NetIC3_1
+Added Pin To Net: NetName=NetIC3_4 Pin=IC3-4
+Added Pin To Net: NetName=NetIC3_4 Pin=J2-41
+Added Net: Name=NetIC3_4
+Added Pin To Net: NetName=NetIC3_6 Pin=IC3-6
+Added Pin To Net: NetName=NetIC3_6 Pin=J1-14
+Added Net: Name=NetIC3_6
+Added Pin To Net: NetName=NetJ2_22 Pin=J2-22
+Added Net: Name=NetJ2_22
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R6-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R20-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R27-1
+Added Net: Name=NetQ4_1
+Added Member To Class: ClassName=Dynamics_Sch Member=Component C1 0805_Capacitor
+Added Member To Class: ClassName=Dynamics_Sch Member=Component C2 0805_Capacitor
+Added Member To Class: ClassName=Dynamics_Sch Member=Component C3 0805_Capacitor
+Added Member To Class: ClassName=Communication Member=Component C5 0.1u
+Added Member To Class: ClassName=Communication Member=Component C6 0.1u
+Added Member To Class: ClassName=Communication Member=Component C7 0.1u
+Added Member To Class: ClassName=Communication Member=Component C8 0.1u
+Added Member To Class: ClassName=Analog_Circuit Member=Component C9 0805_Capacitor
+Added Member To Class: ClassName=Analog_Circuit Member=Component C10 0805_Capacitor
+Added Member To Class: ClassName=Analog_Circuit Member=Component C11 0805_Capacitor
+Added Member To Class: ClassName=Analog_Circuit Member=Component C12 0805_Capacitor
+Added Member To Class: ClassName=Analog_Circuit Member=Component C13 0805_Capacitor
+Added Member To Class: ClassName=Analog_Circuit_1 Member=Component C14 0805_Capacitor
+Added Member To Class: ClassName=Dynamics_Sch Member=Component IC1 MIC5239-3.3YS-TR
+Added Member To Class: ClassName=Communication Member=Component IC3 MCP2542FD-E_MF
+Added Member To Class: ClassName=Dynamics_Sch Member=Component J2 2199230-3
+Added Member To Class: ClassName=Analog_Circuit Member=Component Q1 LND150K1-G
+Added Member To Class: ClassName=Analog_Circuit Member=Component Q2 LND150K1-G
+Added Member To Class: ClassName=Analog_Circuit Member=Component Q3 LND150K1-G
+Added Member To Class: ClassName=Analog_Circuit Member=Component R1 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R2 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R3 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R4 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R5 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R6 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R7 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R8 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R9 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R10 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R11 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R12 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R13 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R14 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R16 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R17 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R18 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R19 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R20 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit Member=Component R21 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit_1 Member=Component R22 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit_1 Member=Component R23 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit_1 Member=Component R24 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit_1 Member=Component R25 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit_1 Member=Component R26 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit_1 Member=Component R27 0805_Resistor
+Added Member To Class: ClassName=Analog_Circuit_1 Member=Component R28 0805_Resistor
