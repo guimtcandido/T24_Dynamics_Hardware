@@ -49,40 +49,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=FadigasLibPCB.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MLIMRRAL
-
-[Document2]
-DocumentPath=FadigasLibSCH.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RDZYIAAA
-
-[Document3]
 DocumentPath=Dynamics_Sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDYLWKJS
 
-[Document4]
+[Document2]
 DocumentPath=Communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSNAQKMY
 
-[Document5]
+[Document3]
 DocumentPath=Analog_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,75 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPDHYIXL
 
-[Document6]
-DocumentPath=SMD_Lib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OJLLAWXN
-
-[Document7]
-DocumentPath=SMD_Lib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XGTNHSWQ
-
-[Document8]
-DocumentPath=Pedro_pcb_lib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LJXNFPHA
-
-[Document9]
-DocumentPath=Pedro_sch_lib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TNTNTKTX
-
-[Document10]
+[Document4]
 DocumentPath=Analog_Circuit_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,8 +116,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGFEKQDL
 
-[Document11]
-DocumentPath=Dynamics.PcbDoc
+[Document5]
+DocumentPath=Dynamics v1.0.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -235,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCCLQNWY
 
-[Document12]
+[Document6]
 DocumentPath=CAMS\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document7]
 DocumentPath=CAMS\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document8]
 DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document9]
 DocumentPath=CAMtastic4.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document10]
 DocumentPath=CAMtastic5.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document11]
 DocumentPath=CAMtastic6.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
